@@ -1,0 +1,28 @@
+1.	Start			
+2.				
+3.	//INPUT			
+4.	declare two variables to get inputs from user			
+5.	declare variables for sum, product and average			
+6.				
+7.	prompt user to insert first number			
+8.	assign it to the variable			
+9.	prompt user to insert second number			
+10.	assign it to the other variable			
+11.				
+12.	//PROCESS			
+13.	calculate sum			
+14.	calculate product			
+15.	calculate average			
+16.				
+17.	//OUTPUT			
+18.	print sum 			
+19.		IF [sum is over 200]		
+20.			print asterisk next to sum	
+21.		END IF		
+22.				
+23.		IF [sum is under 1000]		
+24.			print tilde next to sum	
+25.	print product			
+26.	print average			
+27.				
+28.	end			
